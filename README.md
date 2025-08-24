@@ -1,6 +1,7 @@
 # Line-tracking-robot
-Author:
-Chauhan Bhavik 
+
+Author: Chauhan Bhavik 
+
 Assistant Professor | Owner of Expensive Engineers & Jayshree Laboratories
 
 Dear,
@@ -10,6 +11,7 @@ The repository includes Arduino codes, wiring diagrams, and learning materials s
 All the codes are available in .ino file formate.
 
 Have a great day & Happy Learning!
+
 
 Repository Contents
 
